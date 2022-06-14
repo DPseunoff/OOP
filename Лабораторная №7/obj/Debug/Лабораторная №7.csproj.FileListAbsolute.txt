@@ -1,0 +1,10 @@
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\bin\Debug\Лабораторная №7.exe.config
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\bin\Debug\Лабораторная №7.exe
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\bin\Debug\Лабораторная №7.pdb
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Лабораторная №7.csprojAssemblyReference.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Лабораторная__7.Form1.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Лабораторная__7.Properties.Resources.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Лабораторная №7.csproj.GenerateResource.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Лабораторная №7.csproj.CoreCompileInputs.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Лабораторная №7.exe
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Лабораторная №7.pdb

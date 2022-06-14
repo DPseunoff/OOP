@@ -1,0 +1,6 @@
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\LibModel\bin\Debug\LibModel.dll
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\LibModel\bin\Debug\LibModel.pdb
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\LibModel\obj\Debug\LibModel.csprojAssemblyReference.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\LibModel\obj\Debug\LibModel.csproj.CoreCompileInputs.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\LibModel\obj\Debug\LibModel.dll
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\LibModel\obj\Debug\LibModel.pdb

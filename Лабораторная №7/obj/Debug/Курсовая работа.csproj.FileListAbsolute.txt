@@ -1,0 +1,37 @@
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\bin\Debug\Курсовая_работа.exe.config
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\bin\Debug\Курсовая_работа.exe
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\bin\Debug\Курсовая_работа.pdb
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая_работа.exe
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая_работа.pdb
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая_работа.FacadeForm.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая_работа.Form7.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая_работа.Form12_1.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Лабораторная №7\Лабораторная №7\obj\Debug\Курсовая_работа.Form11_1.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\bin\Debug\Курсовая_работа.exe.config
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\bin\Debug\Курсовая_работа.exe
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\bin\Debug\Курсовая_работа.pdb
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form11_1.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form12_1.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.FacadeForm.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form7.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.exe
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.pdb
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form11_2.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form5.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form13.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form12_2.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form14.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.View.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form9.resources
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\bin\Debug\LibModel.dll
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\bin\Debug\LibModel.pdb
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая работа.csproj.CopyComplete
+C:\Users\pseun\OneDrive\Рабочий стол\Лабы 3 сем\ИСРППС\Курсовая\Лабораторная №7\obj\Debug\Курсовая_работа.Form8.resources
